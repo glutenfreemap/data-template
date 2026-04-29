@@ -1,0 +1,32 @@
+[
+    {
+        "id": "none",
+        "name": {
+            "pt": "Nenhuma",
+            "en": "None",
+            "fr": "Aucune",
+            "es": "Ninguno"
+        },
+        "description": {
+            "pt": "Não certificado.",
+            "en": "Not certified.",
+            "fr": "Non certifié.",
+            "es": "No certificado"
+        }
+    },
+    {
+        "id": "certified",
+        "name": {
+            "pt": "Certificada",
+            "en": "Certified",
+            "fr": "Certifiée",
+            "es": "Certificada"
+        },
+        "description": {
+            "pt": "Certificada por uma organização de certificação reconhecida.",
+            "en": "Certified by a recognized certification organization.",
+            "fr": "Certifiée par une organisation de certification reconnue.",
+            "es": "Certificada por una organización de certificación reconocida."
+        }
+    }
+]
